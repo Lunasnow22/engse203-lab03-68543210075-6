@@ -1,4 +1,4 @@
-# ENGSE203 LAB XX — <ชื่องาน>
+# ENGSE203 LAB3-68543210075-6
 
 ## ผู้จัดทำ
 - ชื่อ-นามสกุล:นิรันดร์รักษ์ อนุสนธิ์
@@ -13,6 +13,7 @@
 
 ## วิธีติดตั้งและรัน
 ​```ติดตั้ง npm เเละ vite
+w
 # ตัวอย่างคำสั่ง
 npm install
 npm run start
@@ -32,11 +33,11 @@ npm run start
 
 ## หลักฐานผลลัพธ์
 <img width="2228" height="1219" alt="image" src="https://github.com/user-attachments/assets/fbc1abbd-f344-4f5f-b6bd-d92c7152c1b4" />
-
+<img width="2231" height="612" alt="image" src="https://github.com/user-attachments/assets/5dff66e3-6d11-47b9-950f-669039a703ce" />
 
 ## ปัญหาที่พบและวิธีแก้ไข
-- ปัญหา:
-- วิธีแก้:
+- ปัญหา:ตัวหนังสื่อใน ui ล้นออกมาจากกรอบ
+- วิธีแก้:เขียนตัวกันเเละกำหนดให้ไม่เกิน
 
 ## References & AI Assistance
 - Source / Documentation:
